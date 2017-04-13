@@ -1,3 +1,3 @@
-# A priority queue for a simplified agenda manager in a rule-based expert system shell
+# A Priority Queue for a Simplified Agenda Manager in a Rule-Based Expert System Shell
 ## technologies used
   java
