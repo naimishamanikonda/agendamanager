@@ -11,7 +11,3 @@
   Open the program Agendamanager.java in the src folder in ide like net beans or eclipse and Click run
   When asked to enter the path of the file which has the rules to be read,enter the absolute path you can use the test files provided in 
   the test folder.
-  
-
-  
-  
